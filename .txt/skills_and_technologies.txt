@@ -1,0 +1,39 @@
+Programming Languages:
+* Python
+* Golang
+* C
+* C++
+* Rust
+* Ruby
+* JavaScript/TypeScript
+
+Software & Processes:
+* Amazon Web Services (AWS)
+* Astrodynamics/Orbital Mechanics
+* Modeling and Simulation
+* MATLAB/Simulink
+* DevOps
+* CI/CD
+* React
+* PostgreSQL
+* Git
+* Bash
+* Linux & Embedded Linux
+* Windows
+* Agile Development
+
+Hardware:
+* Small Satellites
+* Spacecraft
+* Flatsats
+* HITL Simulation
+* Robotics
+* Commercial & Self-Built Drones
+* Autonomous Vehicles
+* Flight Controllers (Pixhawk)
+* Raspberry Pi
+* Microcontrollers
+* Software Defined Radio
+
+Certifications:
+* NOAA Spacecraft Operator

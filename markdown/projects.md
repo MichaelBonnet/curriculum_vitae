@@ -1,0 +1,14 @@
+# Projects
+
+## Project AAPI - Penetration Testing Drone
+* UT Arlington Senior Design capstone project to create a drone that carries a penetration testing payload in the form of a Raspberry Pi running Kali Linux.
+* The payload, controlled and communicated with via RF signals, identifies open Wireless Access Points, then scans the network behind the access point and exploits any vulnerabilities found.
+* Served as Team Leader, Scrum Master, and Communications Lead on a team of six total engineering students.
+* Sponsored by Elbit Systems of America (ESA) as well as the Department of Computer Science & Engineering.
+* Advised by Dr. Christopher McMurrough and ESA's Rick Plumer.
+
+## Autonomous LEGO EV3 Robots
+* UT Arlington Autonomous Robots course team projects that I completed along with teammates Allison Gardiner and Noah Walker.
+* Robot 1, ”Solomon”, solved a painter’s tape-demarcated maze with known configuration, starting point, and goal point using A* search with a Manhattan distance heuristic
+* Robot 2, ”Rehoboam”, using color and ultrasonic sensors, solved a similar maze with unknown initial position or maze configuration, with the goal of finding an object in the maze and pushing it out of position
+* Robots 3-6, "Babylon I, II, III, & IV", implemented the four behaviors of Braitenberg Vehicles, changing their velocity and heading based on where they perceive "light" signals to be coming from via ultrasonic and IR sensors.

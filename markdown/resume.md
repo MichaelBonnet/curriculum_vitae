@@ -2,12 +2,12 @@
 
 ## EDUCATION
 
-University of Texas at Arlington
+### University of Texas at Arlington
 Bachelor of Science in Computer Science, May 2022
 * For senior project, led a six-engineer team in the design, construction, and demonstration of a hexacopter UAV system that delivers a radio-controlled penetration testing platform - a Raspberry Pi running Kali Linux - to the vicinity of a target network. The operator then directs the penetration testing Raspberry Pi to scan the target network for vulnerabilities and exploit any that are found.
 * Coursework: Artificial Intelligence, Machine Learning, Computer Vision, Data Science, Unmanned Vehicle Systems, Data Structures & Algorithms, RF Engineering, Software Engineering, C, C++, Java, ARM Assembly
 
-University of Texas at Arlington
+### University of Texas at Arlington
 Certificate in Unmanned Vehicle Systems, May 2022
 * Graduated with CSE Department's Certificate in Unmanned Vehicle Systems, a multi-course track covering unmanned vehicle system theory and design (including UGVs and UASs/UAVs) as well as extensive study of Artificial Intelligence, Machine Learning, and Computer Vision.
 * Coursework: Artificial Intelligence, Machine Learning, Computer Vision, Intro to Unmanned Vehicle Systems, Unmanned Vehicle Systems Design
@@ -88,14 +88,14 @@ Fort Worth, TX - January 2020-May 2020
 
 ## PROJECTS
 
-### Project AAPI - Penetration Testing Drone
+### [Project AAPI - Penetration Testing Drone](https://github.com/MichaelBonnet/TeamZephyr)
 * UT Arlington Senior Design capstone project to create a drone that carries a penetration testing payload in the form of a Raspberry Pi running Kali Linux.
 * The payload, controlled and communicated with via RF signals, identifies open Wireless Access Points, then scans the network behind the access point and exploits any vulnerabilities found.
 * Served as Team Leader, Scrum Master, and Communications Lead on a team of six total engineering students.
 * Sponsored by Elbit Systems of America (ESA) as well as the Department of Computer Science & Engineering.
 * Advised by Dr. Christopher McMurrough and ESA's Rick Plumer.
 
-### Autonomous LEGO EV3 Robots
+### [Autonomous LEGO EV3 Robots](https://github.com/MichaelBonnet/CSE4360-Projects)
 * UT Arlington Autonomous Robots course team projects that I completed along with teammates Allison Gardiner and Noah Walker.
 * Robot 1, ”Solomon”, solved a painter’s tape-demarcated maze with known configuration, starting point, and goal point using A* search with a Manhattan distance heuristic
 * Robot 2, ”Rehoboam”, using color and ultrasonic sensors, solved a similar maze with unknown initial position or maze configuration, with the goal of finding an object in the maze and pushing it out of position

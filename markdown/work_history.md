@@ -1,5 +1,12 @@
 # Work History
 
+## Spacecraft Software Engineer @ Apex Space
+## Los Angeles, CA - May 2024-Present
+* Designed, developed, and tested commercial-off-the-shelf flight software (C++) for Apex's Aries ESPA-class and other satellite buses
+* Designed and debugged STK spacecraft dynamics simulation runs for mission analysis, mission planning, and regression/Monte Carlo tests
+* Built extensive tooling for guidance, navigation, and control team to smooth and speed up their workflows
+* Operated Aries spacecraft as Mission Operator throughout launch and early orbit phase and standard operations
+
 ## Flight Software Engineer @ Turion Space
 ## Irvine, CA - February 2023-January 2024
 * Developed AWS infrastructure and processes in Golang, TypeScript, and Python enabling efficient data backend services used companywide

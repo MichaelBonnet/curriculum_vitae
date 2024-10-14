@@ -1,17 +1,16 @@
 # Skills and Technologies
 
 ## Programming Languages
+* Rust
 * Python
 * Golang
 * C
 * C++
-* Rust
 * Ruby
 * JavaScript/TypeScript
 
 ## Software & Processes
 * Amazon Web Services (AWS)
-* Astrodynamics/Orbital Mechanics
 * Modeling and Simulation
 * MATLAB/Simulink
 * DevOps
@@ -21,7 +20,6 @@
 * Git
 * Bash
 * Linux & Embedded Linux
-* Windows
 * Agile Development
 
 ## Hardware
@@ -30,12 +28,16 @@
 * Flatsats
 * HITL Simulation
 * Robotics
-* Commercial & Self-Built Drones
+* Commercial & DIY Drones
 * Autonomous Vehicles
 * Flight Controllers (Pixhawk)
 * Raspberry Pi
 * Microcontrollers
 * Software Defined Radio
 
-## Certifications
+## Other Skills:
+* Astrodynamics
+* Orbital Mechanics
+
+## Certifications:
 * NOAA Spacecraft Operator
